@@ -1,5 +1,4 @@
-# My Java App – CI/CD Pipeline
-
+## Java Web Application – CI/CD & DevSecOps Pipeline on AWS
 ## Project Overview
 
 This project demonstrates a complete CI/CD pipeline for a Java web application using AWS EC2, GitHub, Jenkins, Maven, SonarQube, OWASP Dependency-Check, Docker, and Trivy.
