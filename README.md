@@ -338,3 +338,6 @@ Running Java Application
 
 This project helped demonstrate how development, build automation, code quality, security scanning, containerization, deployment, and automated testing can be combined into one CI/CD pipeline.
 # my-java-app
+<img width="1600" height="638" alt="WhatsApp Image 2026-09-20 at 5 46 25 PM" src="https://github.com/user-attachments/assets/c84fff5f-1d22-48f9-b5ed-98a6b604e9ab" />
+
+
